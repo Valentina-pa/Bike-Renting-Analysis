@@ -17,4 +17,7 @@ First of all, we need to create the data frame using csv data and clean it.\
 After make sure the data already clean, we need to check the correlation and have EDA.
 \
 <img width="1036" height="907" alt="image" src="https://github.com/user-attachments/assets/06a06423-8a93-4b41-8994-dc96ceb3ccec" />
-By heat map, we find that both casual and registered have a correlation with temp 
+By heat map, we find that both casual and registered have a correlation with temp.
+\
+After go deep dive to check about the time members rented, we find that there's rush hour that made the demand increased
+<img width="1318" height="426" alt="image" src="https://github.com/user-attachments/assets/733e1d97-593e-4863-8dc9-53c319ec4e13" />
