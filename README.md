@@ -17,3 +17,4 @@ First of all, we need to create the data frame using csv data and clean it.\
 After make sure the data already clean, we need to check the correlation and have EDA.
 \
 <img width="1036" height="907" alt="image" src="https://github.com/user-attachments/assets/06a06423-8a93-4b41-8994-dc96ceb3ccec" />
+By heat map, we find that both casual and registered have a correlation with temp 
