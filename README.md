@@ -13,4 +13,5 @@ j. cnt : total member\
 \
 First of all, we need to create the data frame using csv data and clean it.\
 <img width="521" height="379" alt="image" src="https://github.com/user-attachments/assets/df85def1-7104-4077-bc53-6121312809b6" />\
-After make sure the data already clean, we need to check the correlation and have EDA.\
+After make sure the data already clean, we need to check the correlation and have EDA.
+<img width="1036" height="907" alt="image" src="https://github.com/user-attachments/assets/06a06423-8a93-4b41-8994-dc96ceb3ccec" />
