@@ -11,4 +11,4 @@ h. Casual : count of non registered member\
 i. Registered : count of registered member\
 j. cnt : total member\
 \
-First of all, we need to create the data frame using csv data.
+First of all, we need to create the data frame using csv data and clean it.
