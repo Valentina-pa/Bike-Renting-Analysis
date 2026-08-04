@@ -21,3 +21,4 @@ By heat map, we find that both casual and registered have a correlation with tem
 \
 After go deep dive to check about the time members rented, we find that there's rush hour that made the demand increased
 <img width="1318" height="426" alt="image" src="https://github.com/user-attachments/assets/733e1d97-593e-4863-8dc9-53c319ec4e13" />
+If we have $3 for casual member and 1$ for registered member, we will have revenue for casual is: $1,307,778 meanwhile revenue for registered is: $1,866,556.
